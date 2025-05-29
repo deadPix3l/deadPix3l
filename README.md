@@ -1,4 +1,4 @@
-[![deadPix3l's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadPix3l)](https://github.com/anuraghazra/github-readme-stats)
+[![deadPix3l's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadPix3l&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://www.codewars.com/users/deadPix3l/badges/large)
 
